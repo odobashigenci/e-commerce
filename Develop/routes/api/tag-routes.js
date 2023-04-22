@@ -38,7 +38,7 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
   // create a new tag
-  Tag.crate({
+  Tag.create({
     tag_name: req.body.tag_name
   }).then(tags => {
     return res.json(tags)
