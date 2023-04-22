@@ -52,7 +52,7 @@ Open the Insomnia app, to test the code. For more guide, please follow the walk-
 <div align = "center">
 
 
-![Preview](Develop/assets/picture/e-commerce preview.png)
+![Preview](assets/picture/e-commerce preview.png)
 
 
 </div>
