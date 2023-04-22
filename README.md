@@ -3,30 +3,26 @@ A back end for an e-commerce site
 
 </br>
 
-![License(https://img.shields.io/badge.License-MIT%20License-blue.svg)]
+![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
 
 </br>
 
 ## Description
 
-asdfsafaw
+This app is a back end for an e-commerce site. This app is built using Express.js, MySQL, and Sequelize.
 
 </br>
 
 ## Table of Content
 
-- [e-commerce](#e-commerce)
-  - [Description](#description)
-  - [Table of Content](#table-of-content)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Link](#link)
-  - [Preview](#preview)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Questions and Issues](#questions-and-issues)
-    - [GitHub accunt](#github-accunt)
-    - [Email me](#email-me)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Link](#link)
+- [Preview](#preview)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions and Issues](#questions-and-issues)
+ 
 
 </br>
 
@@ -38,7 +34,10 @@ To install this app, download the file folder or clone the repo in your preferre
 
 ## Usage
 
-Using the comand line in your terminal, navigate into e-commerce/Develp directory. run "mysql" command, and log in with your credentials. Then run the "db/schema.sql" command to read the database from the schama.sql file. Quit mysql. Run "npm run seed" command to run the seeds.js files, and then "npm start" to start the server. Open the Insomnia app, to test the code. For more guide, please follow the walk-through vide below 👇
+Using the comand line in your terminal, navigate into e-commerce/Develp directory. run "mysql" command, and log in with your credentials. 
+Then run the "db/schema.sql" command to read the database from the schama.sql file. Quit mysql. 
+Run "npm run seed" command to run the seeds.js files, and then "npm start" to start the server. 
+Open the Insomnia app, to test the code. For more guide, please follow the walk-through vide below 👇
 
 </br>
 
@@ -53,7 +52,7 @@ Using the comand line in your terminal, navigate into e-commerce/Develp director
 <div align = "center">
 
 
-![Preview](Develop\assets\picture\e-commerce preview.png)
+![Preview](Develop/assets/picture/e-commerce preview.png)
 
 
 </div>
@@ -82,6 +81,6 @@ All users, feel free to contribute to this projec.
 
 ### Email me
 
-[![General Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odobashigenci@gmail.com)
+[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odobashigenci@gmail.com)
 
 
